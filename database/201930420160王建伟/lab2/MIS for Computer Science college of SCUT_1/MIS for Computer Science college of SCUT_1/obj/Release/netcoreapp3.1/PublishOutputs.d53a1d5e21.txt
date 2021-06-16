@@ -1,0 +1,8 @@
+C:\Users\ASUS\Desktop\code\database\lab2\MIS for Computer Science college of SCUT_1.exe
+C:\Users\ASUS\Desktop\code\database\lab2\MIS for Computer Science college of SCUT_1.dll
+C:\Users\ASUS\Desktop\code\database\lab2\MIS for Computer Science college of SCUT_1.deps.json
+C:\Users\ASUS\Desktop\code\database\lab2\MIS for Computer Science college of SCUT_1.runtimeconfig.json
+C:\Users\ASUS\Desktop\code\database\lab2\MIS for Computer Science college of SCUT_1.pdb
+C:\Users\ASUS\Desktop\code\database\lab2\MySqlConnector.dll
+C:\Users\ASUS\Desktop\code\database\lab2\SunnyUI.dll
+C:\Users\ASUS\Desktop\code\database\lab2\SunnyUI.Common.dll

@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\ASUS\Desktop\code\database\lab2\MIS for Computer Science college of SCUT_1\MIS for Computer Science college of SCUT_1\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="add_info.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="avgdata_mer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="cho_add.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="course_choose.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="cur_add.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="delete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="main_menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="mer_login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="mode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="modify.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="modify_grade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="query_mer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="stu_add.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="stu_login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="tch_add.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="tch_login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
