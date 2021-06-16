@@ -1,0 +1,1 @@
+program i_1 ; var i_1 , i_1 , i_1 , i_1 :ini type ; begin i_1 := h_1 ; i_1 := h_1 ; i_1 := h_1 ; i_1 := h_1 ; while i_1 <ini i_1 and i_1 >ini i_1 do if i_1 = h_1 then i_1 := i_1 + h_1 else while i_1 <= i_1 do i_1 := i_1 *ini h_1 end .ini #

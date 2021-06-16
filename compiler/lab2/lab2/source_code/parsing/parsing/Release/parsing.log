@@ -1,0 +1,24 @@
+﻿  parsing.cpp
+C:\Users\ASUS\Desktop\code\compiler\lab2\parsing\parsing\parsing.cpp(122,22): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\ASUS\Desktop\code\compiler\lab2\parsing\parsing\parsing.cpp(161,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\ASUS\Desktop\code\compiler\lab2\parsing\parsing\parsing.cpp(175,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\ASUS\Desktop\code\compiler\lab2\parsing\parsing\parsing.cpp(181,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\ASUS\Desktop\code\compiler\lab2\parsing\parsing\parsing.cpp(275,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\ASUS\Desktop\code\compiler\lab2\parsing\parsing\parsing.cpp(286,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\ASUS\Desktop\code\compiler\lab2\parsing\parsing\parsing.cpp(345,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\ASUS\Desktop\code\compiler\lab2\parsing\parsing\parsing.cpp(350,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\ASUS\Desktop\code\compiler\lab2\parsing\parsing\parsing.cpp(385,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\ASUS\Desktop\code\compiler\lab2\parsing\parsing\parsing.cpp(411,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\ASUS\Desktop\code\compiler\lab2\parsing\parsing\parsing.cpp(417,15): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\ASUS\Desktop\code\compiler\lab2\parsing\parsing\parsing.cpp(425,33): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\ASUS\Desktop\code\compiler\lab2\parsing\parsing\parsing.cpp(434,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\ASUS\Desktop\code\compiler\lab2\parsing\parsing\parsing.cpp(464,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\ASUS\Desktop\code\compiler\lab2\parsing\parsing\parsing.cpp(470,15): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\ASUS\Desktop\code\compiler\lab2\parsing\parsing\parsing.cpp(493,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\ASUS\Desktop\code\compiler\lab2\parsing\parsing\parsing.cpp(637,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\ASUS\Desktop\code\compiler\lab2\parsing\parsing\parsing.cpp(822,28): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 1585 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  parsing.vcxproj -> C:\Users\ASUS\Desktop\code\compiler\lab2\parsing\Release\parsing.exe
