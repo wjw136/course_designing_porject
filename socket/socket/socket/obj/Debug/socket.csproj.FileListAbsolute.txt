@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\code\socket\socket\socket\bin\Debug\socket.exe.config
+C:\Users\ASUS\Desktop\code\socket\socket\socket\bin\Debug\socket.exe
+C:\Users\ASUS\Desktop\code\socket\socket\socket\bin\Debug\socket.pdb
+C:\Users\ASUS\Desktop\code\socket\socket\socket\obj\Debug\socket.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\code\socket\socket\socket\obj\Debug\socket.Form1.resources
+C:\Users\ASUS\Desktop\code\socket\socket\socket\obj\Debug\socket.Properties.Resources.resources
+C:\Users\ASUS\Desktop\code\socket\socket\socket\obj\Debug\socket.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\code\socket\socket\socket\obj\Debug\socket.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\code\socket\socket\socket\obj\Debug\socket.exe
+C:\Users\ASUS\Desktop\code\socket\socket\socket\obj\Debug\socket.pdb
+C:\Users\ASUS\Desktop\code\socket\socket\socket\obj\Debug\socket.Form2.resources
+C:\Users\ASUS\Desktop\code\socket\socket\socket\bin\Debug\socket.exe.manifest
+C:\Users\ASUS\Desktop\code\socket\socket\socket\bin\Debug\socket.application
+C:\Users\ASUS\Desktop\code\socket\socket\socket\obj\Debug\socket.exe.manifest
+C:\Users\ASUS\Desktop\code\socket\socket\socket\obj\Debug\socket.application
